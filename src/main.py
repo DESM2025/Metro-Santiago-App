@@ -1,8 +1,5 @@
-from metro_solver import get_valid_station, find_best_route, get_valid_time  
+from src.metro_solver import get_valid_station, find_best_route, get_valid_time  
 from datetime import timedelta
-
-#Diego Silva Madariaga 
-#20.965.500-4
 
 def main():
     print("Bienvenido al sistema de rutas del Metro de Santiago")

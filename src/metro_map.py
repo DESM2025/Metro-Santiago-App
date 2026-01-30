@@ -29,7 +29,7 @@ metro_map = {
     'Hernando de Magallanes': {'Manquehue': 2.4, 'Los Dominicos': 2.2},
     'Los Dominicos': {'Hernando de Magallanes': 2.2},
 
-    # Línea 5
+    # Linea 5
     'Plaza de Maipú': {'Santiago Bueras': 2.7},
     'Santiago Bueras': {'Plaza de Maipú': 2.7, 'Del Sol': 1.4},
     'Del Sol': {'Santiago Bueras': 1.4, 'Monte Tabor': 1.8},
@@ -62,7 +62,7 @@ metro_map = {
     'Vicente Valdes linea 5': {'Bellavista de la Florida': 1.3, 'Vicente Valdes linea 4': 1},
     
 
-    # Línea 2
+    # Linea 2
     'Vespucio Norte': {'Zapadores': 2.5},
     'Zapadores': {'Vespucio Norte': 2.5, 'Dorsal': 1.1},
     'Dorsal': {'Zapadores': 1.1, 'Einstein': 2.3},

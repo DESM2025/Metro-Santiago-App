@@ -1,6 +1,6 @@
 import heapq
 from datetime import datetime, timedelta
-from metro_map import metro_map  #importar el mapa desde metro_map.py
+from src.metro_map import metro_map  #importar el mapa desde metro_map.py
 
 #algoritmo de Dijkstra para encontrar la ruta mas corta en un grafo
 def dijkstra(graph, start, end):
